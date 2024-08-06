@@ -1,3 +1,9 @@
+
+
+
+<a href="https://app.daily.dev/favourakwata"><img src="https://api.daily.dev/devcards/v2/zGCpqWYNZnxhRqKbeyHNx.png?type=default&r=u33" width="356" alt="BARRY Dev Card"/></a>
+
+
 - 👋 Hi, I’m @Hisbarry
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -7,9 +13,3 @@
 - ⚡ Fun fact: ...
 
 
-<a href="https://app.daily.dev/favourakwata"><img src="https://api.daily.dev/devcards/v2/zGCpqWYNZnxhRqKbeyHNx.png?type=default&r=u33" width="356" alt="BARRY Dev Card"/></a>
-
-<!---
-Hisbarry/Hisbarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
