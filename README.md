@@ -5,11 +5,9 @@
 
 
 - 👋 Hi, I’m @Hisbarry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in building 
 - 💞️ I’m looking to collaborate on an project ...
-- 📫 How to reach me ... WhatsApp +2349060583700 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a mystery 
+- 🤝 WhatsApp +13512444349 
+
 
 
