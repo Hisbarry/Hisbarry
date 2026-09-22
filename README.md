@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Hisbarry
 - 👀 I’m interested in building 
 - 💞️ I’m looking to collaborate on an project ...
-- 🤝 WhatsApp +13512444349 
+- 🤝 WhatsApp +2349060583700
 
 
 
